@@ -9,6 +9,6 @@
 # __Prerequesites__
 ##### [C++](http://www.cyberprogrammers.net/2015/11/top-9-best-cc-ides-for-windowsmac-os.html) needs to be used in order to run this program. Follow the link provided that shows some C/C++ IDEs that could be used to run the program. 
 # __Running the Program__
-##### The functions to test the program must be written in the main.c file. Run the program by reading the necessary information from text file. One is given as an example. 
+##### The functions to test the program must be written in the main.c file. Run the program by first reading integers k and T, and then reading the necessary information from text file. One is given as an example (see pic for command on how to call the program correctly). 
 # __Author__
 ##### This program was written by Joanel Vasquez
